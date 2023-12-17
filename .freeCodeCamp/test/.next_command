@@ -139,3 +139,4 @@ git remote add origin https://github.com/deefah/Lab2.git
 git push -u origin main
 echo $I
 (( I++ ))
+echo $I
