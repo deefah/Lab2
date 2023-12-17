@@ -133,3 +133,8 @@ trap '__vsc_preexec_all "$_"' DEBUG
 __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 git init
 git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/deefah/Lab2.git
+git push -u origin main
+echo $I
