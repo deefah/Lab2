@@ -102,3 +102,4 @@ which bash
 printenv
 echo LANG
 echo $LANG
+declare -p
