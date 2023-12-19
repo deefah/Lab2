@@ -166,3 +166,4 @@ chmod +x fortune.sh
 which bash
 ./bingo.sh
 ./fortune.sh
+ARR=("a" "b" "c")
