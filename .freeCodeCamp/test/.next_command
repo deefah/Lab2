@@ -169,3 +169,5 @@ which bash
 ARR=("a" "b" "c")
 echo ${ARR[1]}
 echo ${ARR[@]}
+declare -p
+declare -p ARR
